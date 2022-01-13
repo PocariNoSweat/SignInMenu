@@ -59,7 +59,7 @@
         android:layout_below="@id/password"
         android:layout_centerHorizontal="true"
         android:layout_marginStart="10dp"
-        android:layout_marginTop="52dp"
+        android:layout_marginTop="85dp"
         android:layout_marginEnd="10dp"
         android:layout_marginBottom="10dp"
         android:backgroundTint="@color/purple_200"
@@ -91,12 +91,12 @@
 
     <com.google.android.material.button.MaterialButton
         android:id="@+id/signup"
-        android:layout_width="208dp"
-        android:layout_height="62dp"
+        android:layout_width="256dp"
+        android:layout_height="59dp"
         android:layout_below="@id/notyet"
         android:layout_centerHorizontal="true"
         android:layout_marginStart="20dp"
-        android:layout_marginTop="30dp"
+        android:layout_marginTop="26dp"
         android:layout_marginEnd="20dp"
         android:layout_marginBottom="20dp"
         android:backgroundTint="@color/purple_200"
@@ -108,9 +108,10 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/password"
         android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
         android:text="I am not a robot "
         android:textColor="@color/black"
-        android:textSize="12dp" />
+        android:textSize="15dp" />
 
 
 </RelativeLayout>
